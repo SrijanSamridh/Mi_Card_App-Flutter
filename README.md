@@ -1,4 +1,4 @@
-# mi_card_app
+# Mi_Card_App
 
 A new Flutter project.
 
