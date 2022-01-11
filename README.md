@@ -1,4 +1,5 @@
 # mi_card_app
+![Simulator Screen Shot - iPhone 13 - 2022-01-11 at 20 37 25](https://user-images.githubusercontent.com/74289654/148967936-ee810f9d-31e5-4715-bfe7-d63c60330c59.png)
 
 A new Flutter project.
 
